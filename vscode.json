@@ -1,23 +1,22 @@
 {
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Dracula",
-    "workbench.editor.enablePreview": false,
-    "prettier.jsxSingleQuote": true,
-    "prettier.singleQuote": true,
-    "prettier.arrowParens": "avoid",
-    "editor.wordWrap": "on",
-    "vetur.format.enable": false,
-    "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true,
-    "editor.tabSize": 2,
-    "emmet.includeLanguages": {
-      "javascript": "javascriptreact"
-    },
-    "window.zoomLevel": 0,
-    "editor.formatOnSave": true,
-    "[javascript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
+  "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
-  
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "prettier.arrowParens": "avoid",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "vetur.format.enable": false,
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Dracula",
+  "workbench.editor.enablePreview": false,
+  "workbench.iconTheme": "material-icon-theme"
+}
