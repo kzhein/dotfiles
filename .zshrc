@@ -111,3 +111,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias warp="sudo wg"
+alias warpon="sudo wg-quick up wgcf-profile"
+alias warpoff="sudo wg-quick down wgcf-profile"
