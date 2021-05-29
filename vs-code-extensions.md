@@ -5,6 +5,7 @@
 * [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
 * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 * [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+* [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 * [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
