@@ -11,6 +11,9 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
+  "errorLens.exclude": ["never (read|used)"],
+  "errorLens.fontSize": "12",
+  "errorLens.onSave": true,
   "prettier.arrowParens": "avoid",
   "prettier.jsxSingleQuote": true,
   "prettier.singleQuote": true,
